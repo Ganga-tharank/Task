@@ -1,0 +1,15 @@
+.box{
+    background-color: gray;
+}
+.box-part{
+    background-color: white;
+    padding: 10px 30px;
+    margin: 30px 40px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.fa{
+    font-size: 10px;
+    color: blue;
+}
